@@ -78,6 +78,7 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [Slint - A GUI toolkit inspired by Qt](https://github.com/slint-ui/slint)
 - [Actix Web - One of the fastest web frameworks on Techempower benchmarks](https://github.com/actix/actix-web)
 - [Hubris - OS for embedded computer systems](https://hubris.oxide.computer/)
+- [Embark Studios](https://github.com/EmbarkStudios/rust-ecosystem)
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 

@@ -83,6 +83,7 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [Rust & Docker in production @ Coursera](https://medium.com/coursera-engineering/rust-docker-in-production-coursera-f7841d88e6ed)
 - [Official support for Rust development in Android](https://source.android.com/docs/setup/build/rust/building-rust-modules/overview)
 - [Official Windows crate from Microsoft for calling Windows APIs](https://github.com/microsoft/windows-rs)
+- [ReadySet - SQL caching engine based on NoriaDB, a research database](https://readyset.io/)
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 

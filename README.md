@@ -79,6 +79,8 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [Actix Web - One of the fastest web frameworks on Techempower benchmarks](https://github.com/actix/actix-web)
 - [Hubris - OS for embedded computer systems](https://hubris.oxide.computer/)
 - [Embark Studios](https://github.com/EmbarkStudios/rust-ecosystem)
+- [Rust at Microsoft](https://youtu.be/NQBVUjdkLAA)
+- [Rust & Docker in production @ Coursera](https://medium.com/coursera-engineering/rust-docker-in-production-coursera-f7841d88e6ed)
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 

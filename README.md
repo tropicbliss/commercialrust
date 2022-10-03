@@ -78,6 +78,12 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [Slint - A GUI toolkit inspired by Qt](https://github.com/slint-ui/slint)
 - [Actix Web - One of the fastest web frameworks on Techempower benchmarks](https://github.com/actix/actix-web)
 - [Hubris - OS for embedded computer systems](https://hubris.oxide.computer/)
+- [Embark Studios](https://github.com/EmbarkStudios/rust-ecosystem)
+- [Rust at Microsoft](https://youtu.be/NQBVUjdkLAA)
+- [Rust & Docker in production @ Coursera](https://medium.com/coursera-engineering/rust-docker-in-production-coursera-f7841d88e6ed)
+- [Official support for Rust development in Android](https://source.android.com/docs/setup/build/rust/building-rust-modules/overview)
+- [Official Windows crate from Microsoft for calling Windows APIs](https://github.com/microsoft/windows-rs)
+- [ReadySet - SQL caching engine based on NoriaDB, a research database](https://readyset.io/)
 - [Prisma](https://github.com/prisma/quaint)
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?

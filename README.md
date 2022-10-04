@@ -85,6 +85,7 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [Official Windows crate from Microsoft for calling Windows APIs](https://github.com/microsoft/windows-rs)
 - [ReadySet - SQL caching engine based on NoriaDB, a research database](https://readyset.io/)
 - [Prisma](https://github.com/prisma/quaint)
+- [PostgresML](https://postgresml.org/blog/backwards-compatible-or-bust-python-inside-rust-inside-postgres/)
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 

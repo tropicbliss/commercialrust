@@ -96,6 +96,16 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [Neovide - Fancy Neovim client](https://github.com/neovide/neovide)
 - [egui - An immediate mode GUI library that runs anywhere](https://www.egui.rs/#demo)
 - [PostgresML](https://postgresml.org/blog/backwards-compatible-or-bust-python-inside-rust-inside-postgres/)
+- [clap - The world's most ergonomic command line argument parser](https://docs.rs/clap/latest/clap/_derive/_tutorial/index.html)
+- [regex-rs - One of the fastest Regex libraries in the world](https://benchmarksgame-team.pages.debian.net/benchmarksgame/performance/regexredux.html)
+- [image-rs - Ergonomic image handling library written in pure Rust](https://github.com/image-rs/image)
+- [Symphonia - Audio decoding library written in pure Rust](https://github.com/pdeljanov/Symphonia)
+- [Rustls - Cryptography library designed to make you make safe choices](https://github.com/rustls/rustls)
+- [Even more cryptography libraries](https://github.com/orgs/RustCrypto/repositories)
+- [Reqwest - Easy to use HTTP client](https://github.com/seanmonstar/reqwest)
+- [Tokio - Asynchronous runtime designed to give you bare metal performance](https://tokio.rs/)
+- [TheAlgorithms - All sorts of algorithms written in Rust](https://github.com/TheAlgorithms/Rust)
+- [curl supports Rustls as a backend](https://daniel.haxx.se/blog/2021/02/09/curl-supports-rustls/)
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 

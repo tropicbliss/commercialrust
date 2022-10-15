@@ -106,6 +106,7 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [Tokio - Asynchronous runtime designed to give you bare metal performance](https://tokio.rs/)
 - [TheAlgorithms - All sorts of algorithms written in Rust](https://github.com/TheAlgorithms/Rust)
 - [curl supports Rustls as a backend](https://daniel.haxx.se/blog/2021/02/09/curl-supports-rustls/)
+- [Embassy - Another async framework designed for embedded devices (Rust does not prescribe an official asynchronous runtime and allows third-party developers to develop alternative runtimes for different use cases, each with first class support for async and await keywords)](https://github.com/embassy-rs/embassy)
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 

@@ -57,7 +57,7 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [OpenDNS uses Rust](https://www.cnet.com/tech/services-and-software/firefox-mozilla-gets-overhaul-in-a-bid-to-get-you-interested-again/)
 - [Redox - A "full-blown Unix-like operating system" including a microkernel written in Rust](www.infoworld.com/article/3046100/open-source-tools/rusts-redox-os-could-show-linux-a-few-new-tricks.html)
 - [Stratis - A file system manager written in Rust for Fedora and RHEL](https://www.theregister.com/2022/07/12/oracle_linux_9/)
-- [exa](https://en.wikipedia.org/wiki/Exa_(command-line_utility))
+- [exa](<https://en.wikipedia.org/wiki/Exa_(command-line_utility)>)
 - [Microsoft Azure IoT Edge has components written in Rust](https://www.theregister.com/2018/06/27/microsofts_next_cloud_trick_kicking_things_out_of_the_cloud_to_azure_iot_edge/)
 - [Polkadot - Open source blockchain platform and cryptocurrency written in Rust](https://www.bloomberg.com/news/articles/2020-10-17/ethereum-blockchain-killer-goes-by-unassuming-name-of-polkadot)
 - [Ruffle - Open source SWF emulator written in Rust](https://ruffle.rs/)
@@ -85,6 +85,16 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [Official Windows crate from Microsoft for calling Windows APIs](https://github.com/microsoft/windows-rs)
 - [ReadySet - SQL caching engine based on NoriaDB, a research database](https://readyset.io/)
 - [Prisma](https://github.com/prisma/quaint)
+- [Fyrox Game Engine - A 2D/3D game engine with a graphical editor](https://fyrox.rs/)
+- [Relay - A Javascript Framework by Facebook](https://github.com/facebook/relay)
+- [Vector](https://github.com/vectordotdev/vector)
+- [mdBook](https://rust-lang.github.io/mdBook/)
+- [hyperfine - A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
+- [Rocket - Extremely easy to use web framework](https://github.com/SergioBenitez/Rocket)
+- [Spacedrive - Cross platform file explorer](https://github.com/spacedriveapp/spacedrive)
+- [wgpu - Graphics API used by projects like Deno](https://github.com/gfx-rs/wgpu)
+- [Neovide - Fancy Neovim client](https://github.com/neovide/neovide)
+- [egui - An immediate mode GUI library that runs anywhere](https://www.egui.rs/#demo)
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 

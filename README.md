@@ -85,7 +85,6 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [Official Windows crate from Microsoft for calling Windows APIs](https://github.com/microsoft/windows-rs)
 - [ReadySet - SQL caching engine based on NoriaDB, a research database](https://readyset.io/)
 - [Prisma](https://github.com/prisma/quaint)
-<<<<<<< HEAD
 - [Fyrox Game Engine - A 2D/3D game engine with a graphical editor](https://fyrox.rs/)
 - [Relay - A Javascript Framework by Facebook](https://github.com/facebook/relay)
 - [Vector](https://github.com/vectordotdev/vector)
@@ -96,9 +95,7 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [wgpu - Graphics API used by projects like Deno](https://github.com/gfx-rs/wgpu)
 - [Neovide - Fancy Neovim client](https://github.com/neovide/neovide)
 - [egui - An immediate mode GUI library that runs anywhere](https://www.egui.rs/#demo)
-=======
 - [PostgresML](https://postgresml.org/blog/backwards-compatible-or-bust-python-inside-rust-inside-postgres/)
->>>>>>> c3ac69ab9e1ab27cb931b1bf6a9e30b3414afe0a
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 

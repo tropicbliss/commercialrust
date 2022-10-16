@@ -92,7 +92,7 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [hyperfine - A command-line benchmarking tool](https://github.com/sharkdp/hyperfine)
 - [Rocket - Extremely easy to use web framework](https://github.com/SergioBenitez/Rocket)
 - [Spacedrive - Cross platform file explorer](https://github.com/spacedriveapp/spacedrive)
-- [wgpu - Graphics API used by projects like Deno](https://github.com/gfx-rs/wgpu)
+- [wgpu - Graphics API used in projects like Deno](https://github.com/gfx-rs/wgpu)
 - [Neovide - Fancy Neovim client](https://github.com/neovide/neovide)
 - [egui - An immediate mode GUI library that runs anywhere](https://www.egui.rs/#demo)
 - [PostgresML](https://postgresml.org/blog/backwards-compatible-or-bust-python-inside-rust-inside-postgres/)
@@ -108,6 +108,7 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [curl supports Rustls as a backend](https://daniel.haxx.se/blog/2021/02/09/curl-supports-rustls/)
 - [Embassy - Another async framework designed for embedded devices (Rust does not prescribe an official asynchronous runtime and allows third-party developers to develop alternative runtimes for different use cases, each with first class support for async and await keywords)](https://github.com/embassy-rs/embassy)
 - [Ockam - End-to-end encryption software suite](https://www.ockam.io/)
+- [Naga - Shader code translator](https://github.com/gfx-rs/naga)
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 

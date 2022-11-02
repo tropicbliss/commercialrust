@@ -111,6 +111,7 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 - [Naga - Shader code translator](https://github.com/gfx-rs/naga)
 - [TurboPack - A fast alternative to Webpack by its author from Vercel included in Next.js 13](https://github.com/vercel/turbo)
 - [Microsoft uses Rust for Windows font rendering - a place that traditionally have lots of vulnerabilities](https://twitter.com/dwizzzleMSFT/status/1578532292662005760)
+- [Apollo Router](https://github.com/apollographql/router)
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 

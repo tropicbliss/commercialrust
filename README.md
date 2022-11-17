@@ -115,4 +115,4 @@ Take note that this list is not exhaustive and I might have failed to add any ob
 
 ## Why not some other lists out there like [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)?
 
-Awesome Rust is a great resource for someone learning Rust, but this list places more emphasis on software projects people outside of the Rust community may have learned or heard about, and less on libraries that are deeply ingrained into the Rust ecosystem that has made all these projects possible.
+Awesome Rust is a great resource for someone learning Rust, but this list places lesser emphasis on software projects people outside of the Rust community may have learned or heard about, and more on libraries that are deeply ingrained into the Rust ecosystem that has made all these projects possible.
